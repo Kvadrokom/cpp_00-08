@@ -1,0 +1,20 @@
+{
+	// Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+	// Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+	// Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+
+
+
+
+		{
+			"type": "lldb",
+			"request": "launch",
+			"name": "Debug",
+			"program": "/Users/skharjo/Desktop/cpp_06/ex00/convert",
+			"args": ["-1.0152558"],
+			"cwd": "${workspaceFolder}"
+		}
+	]
+}
